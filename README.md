@@ -4,7 +4,7 @@ An end-to-end machine learning research project that explores heart disease clas
 
 ## 🌐 Live Application
 
-**[Launch Cardio Insight](https://zomato-restaurant-clustering-ssjg7mgqttycfaznvxandz.streamlit.app/)**
+**[Launch Cardio Insight](https://cardio-insight-0.streamlit.app/)**
 
 Cardio Insight is an interactive research demonstration that allows users to enter patient measurements, explore experimental model predictions and understand model behaviour through explainable AI.
 
